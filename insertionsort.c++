@@ -13,7 +13,7 @@ void insertion_sort(int n,int arr[]){
                 arr[j] = temp;
 
                 j--;
-          }
+          } 
       }
 }
 
